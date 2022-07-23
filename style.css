@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+background-image: url("Blue-Sky.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+height: 100vh;
+margin: 0%;
+padding: 0%;
+}
+
+/* Menu */
+
+.nav ul {
+    list-style: none;
+
+}
+
+
+.nav li{
+    display: inline-block;
+}
+
+.nav a{
+    text-decoration: none;
+    color: aliceblue;
+    width: 50px;
+    display: block;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+
+/* Center Image */
+
+
+
+.center-img img{
+    
+    display: block;
+    width: 50%;
+    margin: auto;   
+}
