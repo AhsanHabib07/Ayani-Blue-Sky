@@ -45,3 +45,15 @@ padding: 0%;
     width: 50%;
     margin: auto;   
 }
+
+
+/* Media Query */
+
+@media all and ( max-width: 500px ) {
+    body {background-image: url("Blue-Sky.jpg");
+       background-size: cover;
+       background-repeat: no-repeat;
+       height: 100vh;
+       margin: 0%;
+       padding: 0%;}
+   }
